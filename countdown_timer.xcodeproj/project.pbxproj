@@ -11,6 +11,16 @@
 		F2BABCEF26EBB0F200A0D6A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BABCEE26EBB0F200A0D6A8 /* ContentView.swift */; };
 		F2BABCF126EBB0F600A0D6A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2BABCF026EBB0F600A0D6A8 /* Assets.xcassets */; };
 		F2BABCF426EBB0F600A0D6A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2BABCF326EBB0F600A0D6A8 /* Preview Assets.xcassets */; };
+		F2BABCFC26EBB15B00A0D6A8 /* TimeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BABCFB26EBB15B00A0D6A8 /* TimeManager.swift */; };
+		F2BABCFE26EBB26500A0D6A8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BABCFD26EBB26500A0D6A8 /* Data.swift */; };
+		F2BABD0026EBB44700A0D6A8 /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BABCFF26EBB44700A0D6A8 /* PickerView.swift */; };
+		F2C2D6A126EF0537000E1AF8 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6A026EF0537000E1AF8 /* TimerView.swift */; };
+		F2C2D6A326EF0763000E1AF8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6A226EF0763000E1AF8 /* MainView.swift */; };
+		F2C2D6A526EF0814000E1AF8 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6A426EF0814000E1AF8 /* ButtonsView.swift */; };
+		F2C2D6A726EF1CE7000E1AF8 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6A626EF1CE7000E1AF8 /* SettingView.swift */; };
+		F2C2D6AB26EF20BD000E1AF8 /* SettingButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6AA26EF20BD000E1AF8 /* SettingButtonView.swift */; };
+		F2C2D6AD26EF23DD000E1AF8 /* SoundListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6AC26EF23DD000E1AF8 /* SoundListView.swift */; };
+		F2C2D6AF26F03355000E1AF8 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C2D6AE26F03355000E1AF8 /* ProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +30,16 @@
 		F2BABCF026EBB0F600A0D6A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2BABCF326EBB0F600A0D6A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2BABCF526EBB0F600A0D6A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2BABCFB26EBB15B00A0D6A8 /* TimeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeManager.swift; sourceTree = "<group>"; };
+		F2BABCFD26EBB26500A0D6A8 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		F2BABCFF26EBB44700A0D6A8 /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
+		F2C2D6A026EF0537000E1AF8 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		F2C2D6A226EF0763000E1AF8 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		F2C2D6A426EF0814000E1AF8 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
+		F2C2D6A626EF1CE7000E1AF8 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		F2C2D6AA26EF20BD000E1AF8 /* SettingButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingButtonView.swift; sourceTree = "<group>"; };
+		F2C2D6AC26EF23DD000E1AF8 /* SoundListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundListView.swift; sourceTree = "<group>"; };
+		F2C2D6AE26F03355000E1AF8 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +77,16 @@
 				F2BABCF026EBB0F600A0D6A8 /* Assets.xcassets */,
 				F2BABCF526EBB0F600A0D6A8 /* Info.plist */,
 				F2BABCF226EBB0F600A0D6A8 /* Preview Content */,
+				F2BABCFB26EBB15B00A0D6A8 /* TimeManager.swift */,
+				F2BABCFD26EBB26500A0D6A8 /* Data.swift */,
+				F2BABCFF26EBB44700A0D6A8 /* PickerView.swift */,
+				F2C2D6A026EF0537000E1AF8 /* TimerView.swift */,
+				F2C2D6A226EF0763000E1AF8 /* MainView.swift */,
+				F2C2D6A426EF0814000E1AF8 /* ButtonsView.swift */,
+				F2C2D6A626EF1CE7000E1AF8 /* SettingView.swift */,
+				F2C2D6AA26EF20BD000E1AF8 /* SettingButtonView.swift */,
+				F2C2D6AC26EF23DD000E1AF8 /* SoundListView.swift */,
+				F2C2D6AE26F03355000E1AF8 /* ProgressBar.swift */,
 			);
 			path = countdown_timer;
 			sourceTree = "<group>";
@@ -138,8 +168,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2C2D6A126EF0537000E1AF8 /* TimerView.swift in Sources */,
+				F2C2D6A326EF0763000E1AF8 /* MainView.swift in Sources */,
+				F2C2D6AD26EF23DD000E1AF8 /* SoundListView.swift in Sources */,
 				F2BABCEF26EBB0F200A0D6A8 /* ContentView.swift in Sources */,
+				F2C2D6A726EF1CE7000E1AF8 /* SettingView.swift in Sources */,
 				F2BABCED26EBB0F200A0D6A8 /* countdown_timerApp.swift in Sources */,
+				F2BABCFC26EBB15B00A0D6A8 /* TimeManager.swift in Sources */,
+				F2BABD0026EBB44700A0D6A8 /* PickerView.swift in Sources */,
+				F2C2D6A526EF0814000E1AF8 /* ButtonsView.swift in Sources */,
+				F2BABCFE26EBB26500A0D6A8 /* Data.swift in Sources */,
+				F2C2D6AF26F03355000E1AF8 /* ProgressBar.swift in Sources */,
+				F2C2D6AB26EF20BD000E1AF8 /* SettingButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
